@@ -1,6 +1,15 @@
 server:
   port: 8090
 
+config:
+  userId: xiaofuge
+
+sdk:
+  config:
+    enabled: false
+    apiHost: https://open.bigmodel.cn/
+    apiSecretKey: d570f7c5d289cdac2abdfdc562e39f3f.trqz1dH8ZK6ED7Pg
+
 logging:
   level:
     root: info

@@ -2,4 +2,4 @@ spring:
   config:
     name: xfg-dev-tech-spring-dependency-injection
   profiles:
-    active: dev
+    active: prod
